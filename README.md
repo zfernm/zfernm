@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zfernm&label=Profile%20views&color=0e75b6&style=flat" alt="zfernm" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zfernm" alt="zfernm" /></a> </p>
-
 - 🔭 I’m currently working on [Redlimit & Meta4sec](meta4sec.com/)
 
 - 🌱 I’m currently learning **Cyber Security, IOT, Blockchain, Machine Learning, Full Stack Web Developer**
