@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zfernm&label=Profile%20views&color=0e75b6&style=flat" alt="zfernm" /> </p>
 
-- 🔭 I’m currently working on [Redlimit & Meta4sec](meta4sec.com/)
+- 🔭 I’m currently working on [Redlimit & Meta4sec](https://meta4sec.com/)
 
 - 🌱 I’m currently learning **Cyber Security, IOT, Blockchain, Machine Learning, Full Stack Web Developer**
 
-- 👨‍💻 All of my projects are available at [samuellhsss.my.id](samuellhsss.my.id)
+- 👨‍💻 All of my projects are available at [samuellhsss.my.id](https://samuellhsss.my.id/)
 
-- 📝 I regularly write articles on [medium.com/@samuellhsss](medium.com/@samuellhsss)
+- 📝 I regularly write articles on [medium.com/@samuellhsss](https://medium.com/@samuellhsss)
 
 - 💬 Ask me about **Cyber Security, Full Stack Web Developer and Machine Learning**
 
