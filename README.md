@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Redlimit & Meta4sec](https://meta4sec.com/)
 
-- 🌱 I’m currently learning **Cyber Security, IOT, Blockchain, Machine Learning, Full Stack Web Developer**
+- 🌱 I’m currently learning **Cyber Security, Blockchain, Machine Learning, Full Stack Web Developer**
 
 - 👨‍💻 All of my projects are available at [samuellhsss.my.id](https://samuellhsss.my.id/)
 
